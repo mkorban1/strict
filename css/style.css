@@ -1,0 +1,270 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	
+}
+.container{
+	width: 1140px;
+	margin: 0 auto;
+	display: block;
+}
+header {
+	background: #f6f9f9;
+}
+.logo{
+	    padding: 35px 0;
+}
+
+.slide{
+	width: 100%;
+	float: left;
+	background: url(../img/baner.png);
+	background-size: cover;
+	font-family: 'Lato', sans-serif;
+	padding-bottom: 90px;
+}
+.slide-main{
+    width: 600px;
+    margin: 0 auto;
+    padding-top: 210px;
+    text-align: center;
+}
+.underline{
+    border-bottom: 2px solid;
+    width: 600px;
+    margin: 0 auto;
+    display: block;
+    color: #15a4fa;
+    margin-bottom: 38px;
+    margin-top: 30px;
+}
+.slide-main h2{
+    font-size: 120px;
+    color: white;
+}
+.slide-main p{
+	font-size: 20px;
+	color: white;
+}
+
+.btn{
+	margin-top: 60px;
+    padding: 15px 34px;
+    font-size: 18px;
+    background: transparent;
+    color: white;
+    border-radius: 5px;
+    border-color: #15a4fa;
+    cursor: pointer;
+}
+.cheek{
+	margin-top: 175px;
+}
+.contant{
+	width: 100%;
+	float: left;
+	background: #f6f9f9;
+}
+.contant-main{
+	    width: 1021px;
+    margin: 0 auto;
+    text-align: center;
+}
+.contant-main h2{
+    margin-top: 75px;
+    margin-bottom: 30px;
+    font-size: 40px;
+    color: #2d3950;
+}
+.contant-main p{
+	font-size: 20px;
+    color: #999999;
+    margin-bottom: 110px;
+}
+.icons{
+	width: 100%;
+	float: left;
+	padding-bottom: 65px;
+}
+
+.icon-one{
+	width: 33.33%;
+	float: left;
+	text-align: center;
+}
+.icon-one h2{
+	text-align: center;
+    font-size: 22px;
+    color: #;
+    color: #2d3950;
+}
+
+.icon-one p{
+	font-size: 15px;
+    color: #9c9a9a;
+    text-align: center;
+}
+
+.fa.fa-mobile{
+    font-size: 100px;
+    background: #48baff;
+    padding: 29px 43px;
+    color: white;
+    border-radius: 2px;
+    margin-bottom: 30px;
+    margin-top: 65px;
+}
+.fa.fa-paper-plane-o{
+    font-size: 100px;
+    background: #48baff;
+    color: white;
+    padding: 29px 35px 29px 24px;
+    border-radius: 2px;
+    margin-bottom: 30px;
+    margin-top: 65px;
+}
+.fa.fa-bullhorn{
+   	font-size: 76px;
+    background: #48baff;
+    padding: 41px 35px;
+    color: white;
+    border-radius: 2px;
+    margin-bottom: 30px;
+    margin-top: 65px;
+}
+.image{
+	width: 100%;
+	float: left;
+	background: #f6f9f9;
+	padding-bottom: 119px;
+}
+.tex{
+	padding-top: 80px;
+    text-align: center
+}
+.tex h2{
+	color: #2d3950;
+    font-size: 41px;
+    padding-bottom: 20px;
+}
+.tex p{
+	color: #909090;
+    font-size: 15px;
+    padding-bottom: 80px;
+}
+.img-slide{
+
+}
+.img-one{
+	width: 33.33%;
+    float: left;
+    margin-top: 28px;
+    cursor: pointer;
+
+}
+.text-box{
+	width: 100%;
+    float: left;
+    background: url(../img/bg.png);
+    padding-top: 72px;
+    padding-bottom: 107px;
+    background-size: cover;
+}
+.text-one{
+	text-align: center;
+}
+.text-one h2{
+	color: white;
+    font-size: 41px;
+    padding-bottom: 23px;
+}
+.text-one p{
+	color: #999999;
+    font-size: 15px;
+    padding-bottom: 50px;
+}
+.box{
+    width: 560px;
+    margin: 0 auto;
+}
+.box-one{
+   	width: 100%;
+    padding: 23px 18px;
+    background: #2c374b;
+    color: #999999;
+    border-radius: 3px;
+
+}
+.box-two{
+	width: 100%;
+   	background: #2c374b;
+    color: #999999;
+    border-radius: 3px;
+    padding-top: 23px;
+    padding-left: 18px;
+    padding-bottom: 161px;
+    padding-right: 18px;
+}
+form{
+	color: white;
+}
+.checkbox{
+	margin-right: 10px;
+}
+.bt{
+    padding: 15px 34px;
+    font-size: 18px;
+    background: transparent;
+    color: white;
+    border-radius: 5px;
+    border-color: #15a4fa;
+    cursor: pointer;
+    margin-top: 18px;
+    margin-left: 270px;
+}
+footer{
+	width: 100%;
+	float: left;
+	padding: 24px 0px;
+	background: #f6f9f9;
+}
+.copy{
+	width: 80%;
+	float: left;
+}
+.copy p{
+    color: #999999;
+    font-size: 15px;
+}
+.social-icon{
+	width: 20%;
+	float: left;
+	cursor: pointer;
+}
+.social-icon ul{
+    list-style: none;
+}
+.social-icon ul li{
+	display: inline;
+    padding: 10px;
+    background: #15a4fa;
+    border-radius: 2px;
+}
+
+.fa.fa-facebook{
+	color: white;
+	padding-right: 10px;
+	padding-right: 2px;
+}
+.fa.fa-twitter{
+	color: white;
+}
+.fa.fa-google{
+	color: white;
+}
+.fa.fa-linkedin{
+	color: white;
+}
+
